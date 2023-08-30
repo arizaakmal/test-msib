@@ -3,3 +3,4 @@ Materi MSIB
 - UI/UX
 - Git/Github
 - PHP
+- Laravel
