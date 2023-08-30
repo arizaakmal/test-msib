@@ -1,5 +1,5 @@
 Materi MSIB 
-- Web Desain
+- Web Desain (HTML)
 - UI/UX
 - Git/Github
 - PHP
