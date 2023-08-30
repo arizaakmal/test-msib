@@ -1,4 +1,5 @@
 Materi MSIB 
+- Desain Grafis
 - Web Desain (HTML)
 - UI/UX
 - Git/Github
